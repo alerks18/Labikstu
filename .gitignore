@@ -1,0 +1,10 @@
+# Compiled binaries
+*.o
+*.out
+launcher
+temp_executable
+
+# Other
+*.exe
+*.dll
+*.so
